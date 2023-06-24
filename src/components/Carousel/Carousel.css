@@ -1,0 +1,17 @@
+.carousel {
+    width: 500px; /* Largura desejada */
+    height: auto; /* Mantém a proporção de altura original */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.custom-image {
+    width: 500px; /* Largura desejada */
+    height: auto; /* Mantém a proporção de altura original */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
