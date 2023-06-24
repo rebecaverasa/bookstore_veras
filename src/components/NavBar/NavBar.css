@@ -1,52 +1,54 @@
 .navbar-custom {
-    background-color: #282a36;
+  background-color: #282a36;
 }
 
 .navbar-custom .navbar-brand {
-    color: #bd93f9;
+  color: #bd93f9;
+  font-size: 35px;
+  margin-left: 11px;
 }
 
 .navbar-custom .navbar-home {
-    color: #f1fa8c;
+  color: #f1fa8c;
 }
 
 .navbar-custom .navbar-home:hover {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .navbar-custom .navbar-link1 {
-    color: #f1fa8c;
+  color: #f1fa8c;
 }
 
 .navbar-custom .navbar-link1:hover {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .navbar-custom .navbar-dropdown .nav-link {
-    color: #f1fa8c;
+  color: #f1fa8c;
 }
 
 .navbar-custom .navbar-dropdown .nav-link:hover {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .search-bar {
-    margin-right: 7px;
+  margin-right: 7px;
 }
 
 .search-button {
-    margin-right: 15px;
-    color: #f1fa8c !important;
-    border-color: #f1fa8c !important;
+  margin-right: 15px;
+  color: #f1fa8c !important;
+  border-color: #f1fa8c !important;
 }
 
 .search-button:hover {
-    background-color: #bd93f9 !important;
-    border-color: #282a36 !important;
-    color: #282a36 !important;
+  background-color: #bd93f9 !important;
+  border-color: #282a36 !important;
+  color: #282a36 !important;
 }
 
 .icon-basket {
-    color: #f1fa8c;
-    font-size: 25px;
-  }
+  color: #f1fa8c;
+  font-size: 25px;
+}
